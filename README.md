@@ -127,11 +127,11 @@ Key logic includes:
 
 ### Executive Summary
 
-![Executive Summary](images/executive-summary.png)
+![Executive Summary](executive-summary.png)
 
 ### Operational Dashboard
 
-![Operational Dashboard](images/operational-dashboard.png)
+![Operational Dashboard](operational-dashboard.png)
 
 ---
 
