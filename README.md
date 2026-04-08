@@ -166,16 +166,4 @@ Instead of just visualizing data, this project focuses on:
 * Integration with real-time APIs
 * Automated anomaly detection
 
----
 
-## Repository Structure
-
-```bash
-SOGR-PowerBI-Dashboard/
-│
-├── SOGR_Dashboard.pbix
-├── images/
-│   ├── executive-summary.png
-│   └── operational-dashboard.png
-└── README.md
-```
