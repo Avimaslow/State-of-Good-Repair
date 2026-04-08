@@ -177,6 +177,5 @@ SOGR-PowerBI-Dashboard/
 ├── images/
 │   ├── executive-summary.png
 │   └── operational-dashboard.png
-├── data/ (optional)
 └── README.md
 ```
